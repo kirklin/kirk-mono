@@ -1,0 +1,8 @@
+[package]
+name = "kirk-mono-build"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.104"
+write-fonts = { version = "0.53.0", features = ["read"] }
